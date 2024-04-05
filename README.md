@@ -1,2 +1,2 @@
 # MySQL
-#[Ejercicios](https://github.com/JRLiche/MySQL/blob/main/UF3/Ejercios)
+# [Ejercicios](https://github.com/JRLiche/MySQL/blob/main/UF3/Ejercios)
