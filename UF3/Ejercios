@@ -1,4 +1,4 @@
-```mysql
+```sql
 -- Ex1
 
 SELECT e.nom, e.cognoms, d.nom
