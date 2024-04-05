@@ -1,2 +1,2 @@
 # MySQL
-UF3
+#[Ejercicios](https://github.com/JRLiche/MySQL/blob/main/UF3/Ejercios)
