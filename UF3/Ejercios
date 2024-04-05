@@ -1,4 +1,5 @@
 ```mysql 
+
 USE rrhh;
 
 -- Ex1
@@ -151,4 +152,5 @@ SELECT e1.empleat_id, e1.nom, e1.cognoms, e1.data_contractacio, e1.id_cap, e2.no
 FROM empleats e1
 INNER JOIN empleats e2 ON e1.id_cap = e2.empleat_id
 WHERE e1.data_contractacio < e2.data_contractacio
-´´´
+
+```
